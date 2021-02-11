@@ -11,18 +11,25 @@ This industry comprises establishments primarily engaged in manufacturing footwe
 
 Illustrative Examples:
 
-Athletic shoes manufacturing;
-Ballet slippers manufacturing;
-Cleated athletic shoes manufacturing;
-Shoes, children's and infants' (except orthopedic extension), manufacturing;
-Shoes, men's (except orthopedic extension), manufacturing;
-Shoes, women's (except orthopedic extension), manufacturing;
+Athletic shoes manufacturing
+
+Ballet slippers manufacturing
+
+Cleated athletic shoes manufacturing
+
+Shoes, children's and infants' (except orthopedic extension), manufacturing
+
+Shoes, men's (except orthopedic extension), manufacturing
+
+Shoes, women's (except orthopedic extension), manufacturing
  
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 Corporate Name: Skechers USA inc Total Employees: 12,600
+
 Corporate Name: Reebok International Ltd Total Employees: 9,102
+
 Corporate Name: Steven Madden Ltd Total Employees: 3,900
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 688 US businesses.
