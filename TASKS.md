@@ -26,6 +26,7 @@ Shoes, women's (except orthopedic extension), manufacturing
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+
 Corporate Name: Skechers USA inc Total Employees: 12,600
 
 Corporate Name: Reebok International Ltd Total Employees: 9,102
@@ -36,7 +37,7 @@ Corporate Name: Steven Madden Ltd Total Employees: 3,900
 ***
 * List of your company's primary activities divided into engineering activities and operations activities: These activities are related to the making or transformation of products (either tangible goods or services). It can be divided in engineering and operations activities, which will be later discussed.
 ***
-*List of your company's support activities: These activities are responsible for planning and oversight of primary activities. In our company, we have Human Resource Management (including job Analysis and design, staffing, recruitment, performance evaluation, compensation plans...), Finance (obtain funds for the company's activity and development, overall budget), General Management (executive power of the company: CEO, SBU...), Marketing (focusing on advertisement, promotion, public relations, public events...) and Accounting (management and supervising of fair overview of company's accounts).
+* List of your company's support activities: These activities are responsible for planning and oversight of primary activities. In our company, we have Human Resource Management (including job Analysis and design, staffing, recruitment, performance evaluation, compensation plans...), Finance (obtain funds for the company's activity and development, overall budget), General Management (executive power of the company: CEO, SBU...), Marketing (focusing on advertisement, promotion, public relations, public events...) and Accounting (management and supervising of fair overview of company's accounts).
 ***
 
 ## Task 2
