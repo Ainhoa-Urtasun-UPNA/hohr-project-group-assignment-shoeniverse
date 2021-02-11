@@ -10,12 +10,12 @@ This industry comprises establishments primarily engaged in manufacturing footwe
 
 Illustrative Examples:
 
-Athletic shoes manufacturing
-Ballet slippers manufacturing
-Cleated athletic shoes manufacturing
-Shoes, children's and infants' (except orthopedic extension), manufacturing
-Shoes, men's (except orthopedic extension), manufacturing
-Shoes, women's (except orthopedic extension), manufacturing
+Athletic shoes manufacturing;
+Ballet slippers manufacturing;
+Cleated athletic shoes manufacturing;
+Shoes, children's and infants' (except orthopedic extension), manufacturing;
+Shoes, men's (except orthopedic extension), manufacturing;
+Shoes, women's (except orthopedic extension), manufacturing;
  
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
@@ -26,7 +26,7 @@ Corporate Name: Steven Madden Ltd Total Employees: 3,900
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 688 US businesses.
 ***
-* List of your company's primary activities divided into engineering activities and operations activities: Thesea ctivities are related to the making or transformation of products (either tangible goods or services). It can be divided in engineering and operations activities, which will be later discussed.
+* List of your company's primary activities divided into engineering activities and operations activities: These activities are related to the making or transformation of products (either tangible goods or services). It can be divided in engineering and operations activities, which will be later discussed.
 ***
 *List of your company's support activities: These activities are responsible for planning and oversight of primary activities. In our company, we have Human Resource Management (including job Analysis and design, staffing, recruitment, performance evaluation, compensation plans...), Finance (obtain funds for the company's activity and development, overall budget), General Management (executive power of the company: CEO, SBU...), Marketing (focusing on advertisement, promotion, public relations, public events...) and Accounting (management and supervising of fair overview of company's accounts).
 ***
