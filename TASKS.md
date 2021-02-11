@@ -6,6 +6,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Your company's name: Shoeniverse
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 316210
+
 This industry comprises establishments primarily engaged in manufacturing footwear (except orthopedic extension footwear). 
 
 Illustrative Examples:
