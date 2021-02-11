@@ -36,7 +36,7 @@ Corporate Name: Steven Madden Ltd Total Employees: 3,900
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 688 US businesses.
 ***
-* List of your company's primary activities divided into engineering activities and operations activities: These activities are related to the making or transformation of products (either tangible goods or services). It can be divided in engineering and operations activities, which will be later discussed.
+* List of your company's primary activities divided into engineering activities and operations activities: These activities are related to the making or transformation of products (either tangible goods or services). It can be divided in engineering and operations activities, which we will disscuss now. Engenieering activities:Research, design, prototyping, testing, R&D development and product development. Operations activities: Setting up machines and tool, obtaining and handling inventory, carring out production and assembling work, finishing and quality control, transportation and delivery.
 ***
 * List of your company's support activities: These activities are responsible for planning and oversight of primary activities. In our company, we have Human Resource Management (including job Analysis and design, staffing, recruitment, performance evaluation, compensation plans...), Finance (obtain funds for the company's activity and development, overall budget), General Management (executive power of the company: CEO, SBU...), Marketing (focusing on advertisement, promotion, public relations, public events...) and Accounting (management and supervising of fair overview of company's accounts).
 ***
