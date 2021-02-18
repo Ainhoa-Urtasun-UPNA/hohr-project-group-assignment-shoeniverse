@@ -90,21 +90,21 @@ https://www.bls.gov/soc/2018/soc_structure_2018.pdf
 ### Engineers
 * ONET-SOC code and title: For engineer we choose the Material Engineers whose code is 17-2131.00
 * 5 most important tasks they carry out (provide the importance score, in Details): 
- 1) 83 Analyze product failure data and laboratory test results to determine causes of problems and develop solutions.
-2) 80: Design and direct the testing or control of processing procedures.
-3) 79: Monitor material performance and evaluate material deterioration.
-4) 78: Conduct or supervise tests on raw materials or finished products to ensure their quality.
-5) 78: Evaluate technical specifications and economic factors relating to process or product design objectives.
+ 1) Grade of 83 Analyze product failure data and laboratory test results to determine causes of problems and develop solutions.
+2) Grade of 80 Design and direct the testing or control of processing procedures.
+3) Grade of 79 Monitor material performance and evaluate material deterioration.
+4) Grade of 78 Conduct or supervise tests on raw materials or finished products to ensure their quality.
+5) Grade of 78 Evaluate technical specifications and economic factors relating to process or product design objectives.
 
 * Is this job routine? Your judgment (0-10): We think that this job has a 4 in the scale of job routine, since they actually do more or less similar tasks but depending on each material the tasks could be different. The results obtained vary a lot too depending on the materials been studying. The engineer doesn’t work always in the same place, he or she is moving along the laboratory. This job would be almost impossible to be carried out by a machine due to the specialized tasks of this job.
 * Is this job cognitive? Your judgment (0-10):We also think that this job has a 7 in the scale of job cognitivity, since they are always analyzing a lot of data, specifications, developing solutions, reviewing results. Summarizing, it is a job where they need ability to learn, to apply knowledge, analyze and reason… This job requires high skills workers with inborn abilities as well as that it is important the learning curve.
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
-1) 75: Active Listening 
-2) 75: Complex Problem Solving
-3) 75: Reading Comprehension
-4) 75: Science
-5) 72: Critical Thinking 
+1) Grade of 75 Active Listening 
+2) Grade of 75 Complex Problem Solving
+3) Grade of 75 Reading Comprehension
+4) Grade of 75 Science
+5) Grade of 72 Critical Thinking 
 
 * 5 technology skills:
 Analytical or scientific software 
