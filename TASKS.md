@@ -63,6 +63,7 @@ Sample of reported job titles: Business Manager, General Manager (GM), Operation
 3) Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill. 	
 4) Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill.
 5) Speaking — Talking to others to convey information effectively.
+
 All score 75. 
 * 5 technology skills:
 1) Accounting software 
@@ -140,8 +141,8 @@ Operate or tend a variety of machines to join, decorate, reinforce, or finish sh
 
 Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, Cutter, Fitter, Inseamer, Insole Department Worker, Side Laster, Stitcher.
 * 5 most important tasks they carry out (provide the importance score, in Details):
-1) Study work orders or shoe part tags to obtain information about workloads, specifications, and the types of materials to be used.See more occupations related to this task. Score 97	
-2) Remove and examine shoes, shoe parts, and designs to verify conformance to specifications such as proper embedding of stitches in channels.See more occupations related to this task. Score 92
+1) Study work orders or shoe part tags to obtain information about workloads, specifications, and the types of materials to be used. Score 97	
+2) Remove and examine shoes, shoe parts, and designs to verify conformance to specifications such as proper embedding of stitches in channels. Score 92
 3) Perform routine equipment maintenance such as cleaning and lubricating machines or replacing broken needles.	Score 78	
 4) Cut excess thread or material from shoe parts, using scissors or knives. Score 77
 5) Turn screws to regulate size of staples. Score 89 (suplemental)
@@ -162,11 +163,17 @@ Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, C
 4) Office suite software — Microsoft Office 
 5) Spreadsheet software — Microsoft Excel 
 
-* Education: 70% of the respondents only have a High School diploma or Equivalent, 25% less than high school diploma and 5% some college, no degree
-* Wages: The median wages in 2019 were $14.70 hourly and $30,570
-The employment in 2019 was $5,300 employees and the projected job opening 2019 – 2029 was 500 jobs
+* Education: 
 
-* Top industry: The top industries in 2019 were manufacturing
+-  High school diploma or equivalent (70% of the respondents)
+
+-  Less than high school diploma (25% of the respondents)
+
+-  College, no degree (5% of the respondents)
+* Wages: The median wages in 2019 were $14.70 hourly and $30,570
+
+* Top industry: 
+-  Manufacturing (almost 100%)
 ***
 
 ## Task 3
