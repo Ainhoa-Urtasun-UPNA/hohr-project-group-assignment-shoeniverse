@@ -56,7 +56,7 @@ Sample of reported job titles: Business Manager, General Manager (GM), Operation
 4) Prepare staff work schedules and assign specific duties.See more occupations related to this task. Score 73
 5) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. Score 72
 * Is this job routine? Your judgment (0-10): In our judgement the score should be a 3. Despite the fact that the job involves some routine actions, managers face different situations regarding the same task. 
-* Is this job cognitive? Your judgment (0-10): In our judgement the score should be a 9. As they have to take decisions, manage the operations, formulating policies... this job does not implied physical activities. 
+* Is this job cognitive? Your judgment (0-10): In our judgment the score should be a 9. As they have to take decisions, manage the operations, formulating policies... this job does not implied physical activities. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
 1) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.  	
 2) Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
