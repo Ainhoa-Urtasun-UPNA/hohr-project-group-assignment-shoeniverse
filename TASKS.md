@@ -88,37 +88,50 @@ All score 75.
 -Other industries (including Manufacturing and Wholesale Trade) (77% employed in these sectors)
 
 ### Engineers
-* ONET-SOC code and title: For engineer we choose the Material Engineers whose code is 17-2131.00
+* ONET-SOC code and title: 17.2131, Material Engineers
+Evaluate materials and develop machinery and processes to manufacture materials for use in products that must meet specialized design and performance specifications. Develop new uses for known materials. Includes those engineers working with composite materials or specializing in one type of material, such as graphite, metal and metal alloys, ceramics and glass, plastics and polymers, and naturally occurring materials. Includes metallurgists and metallurgical engineers, ceramic engineers, and welding engineers.
+
+Sample of reported job titles: Extrusion Engineer, Materials Development Engineer, Materials Engineer, Materials Research Engineer, Metallurgical Engineer, Metallurgist, Research Engineer, Test Engineer
 * 5 most important tasks they carry out (provide the importance score, in Details): 
- 1) Grade of 83 Analyze product failure data and laboratory test results to determine causes of problems and develop solutions.
-2) Grade of 80 Design and direct the testing or control of processing procedures.
-3) Grade of 79 Monitor material performance and evaluate material deterioration.
-4) Grade of 78 Conduct or supervise tests on raw materials or finished products to ensure their quality.
-5) Grade of 78 Evaluate technical specifications and economic factors relating to process or product design objectives.
+1) Analyze product failure data and laboratory test results to determine causes of problems and develop solutions. Score 83
+2) Design and direct the testing or control of processing procedures. Score 80
+3) Monitor material performance and evaluate material deterioration. Score 79
+4) Conduct or supervise tests on raw materials or finished products to ensure their quality. Score 78
+5) Evaluate technical specifications and economic factors relating to process or product design objectives. Score 78
 
 * Is this job routine? Your judgment (0-10): We think that this job has a 4 in the scale of job routine, since they actually do more or less similar tasks but depending on each material the tasks could be different. The results obtained vary a lot too depending on the materials been studying. The engineer doesn’t work always in the same place, he or she is moving along the laboratory. This job would be almost impossible to be carried out by a machine due to the specialized tasks of this job.
 * Is this job cognitive? Your judgment (0-10):We also think that this job has a 7 in the scale of job cognitivity, since they are always analyzing a lot of data, specifications, developing solutions, reviewing results. Summarizing, it is a job where they need ability to learn, to apply knowledge, analyze and reason… This job requires high skills workers with inborn abilities as well as that it is important the learning curve.
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
-1) Grade of 75 Active Listening 
-2) Grade of 75 Complex Problem Solving
-3) Grade of 75 Reading Comprehension
-4) Grade of 75 Science
-5) Grade of 72 Critical Thinking 
+1)  Active Listening - Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+2)  Complex Problem Solving - Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions
+3)  Reading Comprehension - The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).
+4)  Science - The ability to listen to and understand information and ideas presented through spoken words and sentences.
+5)  Critical Thinking - The ability to communicate information and ideas in speaking so others will understand.
 
 * 5 technology skills:
-Analytical or scientific software 
-Computer aided design CAD software
-Computer aided manufacturing CAM software 
-Data base user interface and query software
-Development environment software
+1) Analytical or scientific software 
+2) Computer aided design CAD software
+3) Computer aided manufacturing CAM software 
+4) Data base user interface and query software
+5) Development environment software
 
 
-* Education: 48% of the respondents only have a Bachelor’s degree, 33% also have a doctoral degree and 10% have master’s
+* Education: 
+
+- Bachelor's degree (48% of the respondents)
+
+- Doctoral Degree (33% of the respondents)
+
+- Master's Degree (10% of the respondents)
+
 * Wages: The median wages in 2019 were $44.88 hourly and $93,360
-The employment in 2019 was $27,500 employees and the projected job opening 2019 – 2029 was 1500 jobs
 
-* Top industry: The top industries in 2019  were manufacturing (56% employed in this sector)  and Professional, Scientific and Technical Services 23%
+* Top industry: 
+
+- Manufacturing (56% employed in this sector)
+- Professional, Scientific and technical services (23% employed in these sectors)
+- Others (21% employed in these sectors)
 
 ### Operators
 * ONET-SOC code and title: 51-6042, Shoe machine operators and tenders.
