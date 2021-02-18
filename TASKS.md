@@ -58,10 +58,10 @@ Sample of reported job titles: Business Manager, General Manager (GM), Operation
 * Is this job routine? Your judgment (0-10): In our judgement the score should be a 3. Despite the fact that the job involves some routine actions, managers face different situations regarding the same task. 
 * Is this job cognitive? Your judgment (0-10): In our judgment the score should be a 9. As they have to take decisions, manage the operations, formulating policies... this job does not implied physical activities. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
-1) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.  	
-2) Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
-3) Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill. 	
-4) Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill.
+1) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.  	
+2) Coordination — Adjusting actions in relation to others' actions.
+3) Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. 	
+4) Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.
 5) Speaking — Talking to others to convey information effectively.
 
 All score 75. 
@@ -77,8 +77,7 @@ All score 75.
 
 -Some college, no degree (19% of respondents)
 
-
--  High school diploma or equivalent (15% of respondents)
+-High school diploma or equivalent (15% of respondents)
 
 * Wages: Median wages (2019)	$48.45 hourly, $100,780 annual
 * Top industry:
@@ -152,10 +151,10 @@ Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, C
 * Is this job cognitive? Your judgment (0-10):
  In our judgment, the score should be 3. Most of the tasks are related with physical activities regarding the making process of the shoes.
 * 5 most important skills they require to possess (provide the importance score, in Details):
-1) Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill. 	
-2) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
-3) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
-4) Operation and Control — Controlling operations of equipment or systems.See more occupations related to this skill.
+1) Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. 	
+2) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+3) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+4) Operation and Control — Controlling operations of equipment or systems.
 5) Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance.
 * 5 technology skills:
 1) Document management software — Adobe Systems Adobe Acrobat 
