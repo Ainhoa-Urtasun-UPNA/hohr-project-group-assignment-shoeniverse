@@ -46,7 +46,7 @@ Corporate Name: Steven Madden Ltd Total Employees: 3,900
 ***
 ### Managers
 * ONET-SOC code and title: 11-1021, General and Operations Managers
-* Plan, direct, or coordinate the operations of public or private sector organizations, overseeing multiple departments or locations. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources, but are too diverse and general in nature to be classified in any one functional area of management or administration, such as personnel, purchasing, or administrative services. Usually manage through subordinate supervisors. Excludes First-Line Supervisors.
+Plan, direct, or coordinate the operations of public or private sector organizations, overseeing multiple departments or locations. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources, but are too diverse and general in nature to be classified in any one functional area of management or administration, such as personnel, purchasing, or administrative services. Usually manage through subordinate supervisors. Excludes First-Line Supervisors.
 
 Sample of reported job titles: Business Manager, General Manager (GM), Operations Director, Operations Manager, Plant Superintendent, Store Manager
 * 5 most important tasks they carry out (provide the importance score, in Details):	
@@ -105,7 +105,7 @@ Sample of reported job titles: Extrusion Engineer, Materials Development Enginee
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
 1)  Active Listening - Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
-2)  Complex Problem Solving - Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions
+2)  Complex Problem Solving - Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
 3)  Reading Comprehension - The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).
 4)  Science - The ability to listen to and understand information and ideas presented through spoken words and sentences.
 5)  Critical Thinking - The ability to communicate information and ideas in speaking so others will understand.
