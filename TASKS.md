@@ -50,35 +50,35 @@ Corporate Name: Steven Madden Ltd Total Employees: 3,900
 
 Sample of reported job titles: Business Manager, General Manager (GM), Operations Director, Operations Manager, Plant Superintendent, Store Manager
 * 5 most important tasks they carry out (provide the importance score, in Details):	
-Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement.See more occupations related to this task. Score 77
-	Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related to this task. Score 76
-Direct administrative activities directly related to making products or providing services.See more occupations related to this task. Score 75
-Prepare staff work schedules and assign specific duties.See more occupations related to this task.Score 73
-Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.Score 72
+1) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement.See more occupations related to this task. Score 77
+2) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related to this task. Score 76
+3) Direct administrative activities directly related to making products or providing services.See more occupations related to this task. Score 75
+4) Prepare staff work schedules and assign specific duties.See more occupations related to this task.Score 73
+5)Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.Score 72
 * Is this job routine? Your judgment (0-10): In our judgement the score should be a 3. Despite the fact that the job involves some routine actions, managers face different situations regarding the same task. 
 * Is this job cognitive? Your judgment (0-10): In our judgement the score should be a 9. As they have to take decisions, manage the operations, formulating policies... this job does not implied physical activities. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
-*  	Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.  	
-Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
-Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill. 	
-Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill.
-Speaking — Talking to others to convey information effectively.
+1) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.  	
+2) Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
+3) Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill. 	
+4) Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill.
+5) Speaking — Talking to others to convey information effectively.
 All score 75. 
 * 5 technology skills:
-* 1.Accounting software 
-* 2.Analytical or scientific software
-* 3.Business intelligence and data analysis software
-* 4.Customer relationship management CRM software
-* 5.Data base user interface and query software
+1) Accounting software 
+2) Analytical or scientific software
+3) Business intelligence and data analysis software
+4) Customer relationship management CRM software
+5) Data base user interface and query software
 * Education:
-* Bachelor's degree (29% of respondents)
-* Some college, no degree (19% of respondents)
-* High school diploma or equivalent (15% of respondents)
+-Bachelor's degree (29% of respondents)
+-Some college, no degree (19% of respondents)
+-High school diploma or equivalent (15% of respondents)
 * Wages: Median wages (2019)	$48.45 hourly, $100,780 annual
 * Top industry:
-* Retail Trade (12% employed in this sector)
-* 	Professional, Scientific, and Technical Services (11% employed in these sectors)
-* 	Other industries (including Manufacturing and Wholesale Trade) (77% employed in these sectors)
+-Retail Trade (12% employed in this sector)
+-Professional, Scientific, and Technical Services (11% employed in these sectors)
+-Other industries (including Manufacturing and Wholesale Trade) (77% employed in these sectors)
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
