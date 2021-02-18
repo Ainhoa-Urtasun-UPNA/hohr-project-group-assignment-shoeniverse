@@ -88,15 +88,38 @@ All score 75.
 -Other industries (including Manufacturing and Wholesale Trade) (77% employed in these sectors)
 https://www.bls.gov/soc/2018/soc_structure_2018.pdf
 ### Engineers
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* ONET-SOC code and title: For engineer we choose the Material Engineers whose code is 17-2131.00
+* 5 most important tasks they carry out (provide the importance score, in Details): 
+  83 Analyze product failure data and laboratory test results to determine causes of problems and develop solutions.
+80: Design and direct the testing or control of processing procedures.
+79: Monitor material performance and evaluate material deterioration.
+78: Conduct or supervise tests on raw materials or finished products to ensure their quality.
+78: Evaluate technical specifications and economic factors relating to process or product design objectives.
+
+* Is this job routine? Your judgment (0-10): We think that this job has a 4 in the scale of job routine, since they actually do more or less similar tasks but depending on each material the tasks could be different. The results obtained vary a lot too depending on the materials been studying. The engineer doesn’t work always in the same place, he or she is moving along the laboratory. This job would be almost impossible to be carried out by a machine due to the specialized tasks of this job.
+* Is this job cognitive? Your judgment (0-10):We also think that this job has a 7 in the scale of job cognitivity, since they are always analyzing a lot of data, specifications, developing solutions, reviewing results. Summarizing, it is a job where they need ability to learn, to apply knowledge, analyze and reason… This job requires high skills workers with inborn abilities as well as that it is important the learning curve.
 * 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills
-* Education:
-* Wages:
-* Top industry:
+
+75: Active Listening 
+75: Complex Problem Solving
+75: Reading Comprehension
+75: Science
+72: Critical Thinking 
+
+* 5 technology skills:
+Analytical or scientific software 
+Computer aided design CAD software
+Computer aided manufacturing CAM software 
+Data base user interface and query software
+Development environment software
+
+
+* Education: 48% of the respondents only have a Bachelor’s degree, 33% also have a doctoral degree and 10% have master’s
+* Wages: The median wages in 2019 were $44.88 hourly and $93,360
+The employment in 2019 was $27,500 employees and the projected job opening 2019 – 2029 was 1500 jobs
+
+* Top industry: The top industries in 2019  were manufacturing (56% employed in this sector)  and Professional, Scientific and Technical Services 23%
+
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
