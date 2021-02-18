@@ -116,29 +116,19 @@ Sample of reported job titles: Extrusion Engineer, Materials Development Enginee
 3) Computer aided manufacturing CAM software 
 4) Data base user interface and query software
 5) Development environment software
-
-
 * Education: 
-
 
 -  Bachelor's degree (48% of the respondents)
 
-
 -  Doctoral Degree (33% of the respondents)
 
-
 -  Master's Degree (10% of the respondents)
-
-
 * Wages: The median wages in 2019 were $44.88 hourly and $93,360
-
 * Top industry: 
 
 -  Manufacturing (56% employed in this sector)
 
-
 -  Professional, Scientific and technical services (23% employed in these sectors)
-
 
 -  Others (21% employed in these sectors)
 
