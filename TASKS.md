@@ -45,7 +45,7 @@ Corporate Name: Steven Madden Ltd Total Employees: 3,900
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title: 11-1021- General and Operations Managers
+* ONET-SOC code and title: 11-1021, General and Operations Managers
 * Plan, direct, or coordinate the operations of public or private sector organizations, overseeing multiple departments or locations. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources, but are too diverse and general in nature to be classified in any one functional area of management or administration, such as personnel, purchasing, or administrative services. Usually manage through subordinate supervisors. Excludes First-Line Supervisors.
 
 Sample of reported job titles: Business Manager, General Manager (GM), Operations Director, Operations Manager, Plant Superintendent, Store Manager
