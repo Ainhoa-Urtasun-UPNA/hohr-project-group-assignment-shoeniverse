@@ -90,21 +90,21 @@ https://www.bls.gov/soc/2018/soc_structure_2018.pdf
 ### Engineers
 * ONET-SOC code and title: For engineer we choose the Material Engineers whose code is 17-2131.00
 * 5 most important tasks they carry out (provide the importance score, in Details): 
-  83 Analyze product failure data and laboratory test results to determine causes of problems and develop solutions.
-80: Design and direct the testing or control of processing procedures.
-79: Monitor material performance and evaluate material deterioration.
-78: Conduct or supervise tests on raw materials or finished products to ensure their quality.
-78: Evaluate technical specifications and economic factors relating to process or product design objectives.
+ 1) 83 Analyze product failure data and laboratory test results to determine causes of problems and develop solutions.
+2) 80: Design and direct the testing or control of processing procedures.
+3) 79: Monitor material performance and evaluate material deterioration.
+4) 78: Conduct or supervise tests on raw materials or finished products to ensure their quality.
+5) 78: Evaluate technical specifications and economic factors relating to process or product design objectives.
 
 * Is this job routine? Your judgment (0-10): We think that this job has a 4 in the scale of job routine, since they actually do more or less similar tasks but depending on each material the tasks could be different. The results obtained vary a lot too depending on the materials been studying. The engineer doesn’t work always in the same place, he or she is moving along the laboratory. This job would be almost impossible to be carried out by a machine due to the specialized tasks of this job.
 * Is this job cognitive? Your judgment (0-10):We also think that this job has a 7 in the scale of job cognitivity, since they are always analyzing a lot of data, specifications, developing solutions, reviewing results. Summarizing, it is a job where they need ability to learn, to apply knowledge, analyze and reason… This job requires high skills workers with inborn abilities as well as that it is important the learning curve.
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
-75: Active Listening 
-75: Complex Problem Solving
-75: Reading Comprehension
-75: Science
-72: Critical Thinking 
+1) 75: Active Listening 
+2) 75: Complex Problem Solving
+3) 75: Reading Comprehension
+4) 75: Science
+5) 72: Critical Thinking 
 
 * 5 technology skills:
 Analytical or scientific software 
@@ -143,9 +143,17 @@ Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, C
 4) Operation and Control — Controlling operations of equipment or systems.See more occupations related to this skill.
 5) Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance.
 * 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+1) Document management software — Adobe Systems Adobe Acrobat 
+2) Industrial control software — Production control software
+3) Inventory management software — Inventory tracking software
+4) Office suite software — Microsoft Office 
+5) Spreadsheet software — Microsoft Excel 
+
+* Education: 70% of the respondents only have a High School diploma or Equivalent, 25% less than high school diploma and 5% some college, no degree
+* Wages: The median wages in 2019 were $14.70 hourly and $30,570
+The employment in 2019 was $5,300 employees and the projected job opening 2019 – 2029 was 500 jobs
+
+* Top industry: The top industries in 2019 were manufacturing
 ***
 
 ## Task 3
