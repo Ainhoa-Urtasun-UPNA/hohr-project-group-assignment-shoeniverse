@@ -54,6 +54,8 @@ Sample of reported job titles: Business Manager, General Manager (GM), Operation
 2) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related to this task. Score 76
 3) Direct administrative activities directly related to making products or providing services.See more occupations related to this task. Score 75
 4) Prepare staff work schedules and assign specific duties.See more occupations related to this task. Score 73
+
+
 5)Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. Score 72
 * Is this job routine? Your judgment (0-10): In our judgement the score should be a 3. Despite the fact that the job involves some routine actions, managers face different situations regarding the same task. 
 * Is this job cognitive? Your judgment (0-10): In our judgement the score should be a 9. As they have to take decisions, manage the operations, formulating policies... this job does not implied physical activities. 
@@ -71,14 +73,18 @@ All score 75.
 4) Customer relationship management CRM software
 5) Data base user interface and query software
 * Education:
+
 -Bachelor's degree (29% of respondents)
+
 -Some college, no degree (19% of respondents)
+
+
 -High school diploma or equivalent (15% of respondents)
 * Wages: Median wages (2019)	$48.45 hourly, $100,780 annual
 * Top industry:
-- Retail Trade (12% employed in this sector)
-- Professional, Scientific, and Technical Services (11% employed in these sectors)
-- Other industries (including Manufacturing and Wholesale Trade) (77% employed in these sectors)
+-Retail Trade (12% employed in this sector)
+-Professional, Scientific, and Technical Services (11% employed in these sectors)
+-Other industries (including Manufacturing and Wholesale Trade) (77% employed in these sectors)
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
