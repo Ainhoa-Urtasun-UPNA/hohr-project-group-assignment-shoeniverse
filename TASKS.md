@@ -124,6 +124,7 @@ The employment in 2019 was $27,500 employees and the projected job opening 2019 
 * ONET-SOC code and title: 51-6042, Shoe machine operators and tenders.
 
 Operate or tend a variety of machines to join, decorate, reinforce, or finish shoes and shoe parts. 
+
 Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, Cutter, Fitter, Inseamer, Insole Department Worker, Side Laster, Stitcher.
 * 5 most important tasks they carry out (provide the importance score, in Details):
 1) Study work orders or shoe part tags to obtain information about workloads, specifications, and the types of materials to be used.See more occupations related to this task. Score 97	
