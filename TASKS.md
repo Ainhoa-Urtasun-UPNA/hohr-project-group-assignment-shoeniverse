@@ -86,6 +86,7 @@ All score 75.
 -Professional, Scientific, and Technical Services (11% employed in these sectors)
 
 -Other industries (including Manufacturing and Wholesale Trade) (77% employed in these sectors)
+https://www.bls.gov/soc/2018/soc_structure_2018.pdf
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
