@@ -120,19 +120,28 @@ Sample of reported job titles: Extrusion Engineer, Materials Development Enginee
 
 * Education: 
 
+
 -  Bachelor's degree (48% of the respondents)
+
 
 -  Doctoral Degree (33% of the respondents)
 
+
 -  Master's Degree (10% of the respondents)
+
 
 * Wages: The median wages in 2019 were $44.88 hourly and $93,360
 
 * Top industry: 
 
 -  Manufacturing (56% employed in this sector)
+
+
 -  Professional, Scientific and technical services (23% employed in these sectors)
+
+
 -  Others (21% employed in these sectors)
+
 
 ### Operators
 * ONET-SOC code and title: 51-6042, Shoe machine operators and tenders.
@@ -165,14 +174,23 @@ Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, C
 
 * Education: 
 
+
 -  High school diploma or equivalent (70% of the respondents)
+
+
 
 -  Less than high school diploma (25% of the respondents)
 
+
+
 -  College, no degree (5% of the respondents)
+
+
 * Wages: The median wages in 2019 were $14.70 hourly and $30,570
 
-* Top industry: 
+* Top industry:
+
+
 -  Manufacturing (almost 100%)
 ***
 
