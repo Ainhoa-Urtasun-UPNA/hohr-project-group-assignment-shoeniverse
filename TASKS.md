@@ -54,7 +54,7 @@ Sample of reported job titles: Business Manager, General Manager (GM), Operation
 2) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related to this task. Score 76
 3) Direct administrative activities directly related to making products or providing services.See more occupations related to this task. Score 75
 4) Prepare staff work schedules and assign specific duties.See more occupations related to this task. Score 73
-5)Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. Score 72
+5) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. Score 72
 * Is this job routine? Your judgment (0-10): In our judgement the score should be a 3. Despite the fact that the job involves some routine actions, managers face different situations regarding the same task. 
 * Is this job cognitive? Your judgment (0-10): In our judgement the score should be a 9. As they have to take decisions, manage the operations, formulating policies... this job does not implied physical activities. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
