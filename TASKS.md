@@ -50,10 +50,10 @@ Corporate Name: Steven Madden Ltd Total Employees: 3,900
 
 Sample of reported job titles: Business Manager, General Manager (GM), Operations Director, Operations Manager, Plant Superintendent, Store Manager
 * 5 most important tasks they carry out (provide the importance score, in Details):	
-1) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement.See more occupations related to this task. Score 77
-2) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related to this task. Score 76
-3) Direct administrative activities directly related to making products or providing services.See more occupations related to this task. Score 75
-4) Prepare staff work schedules and assign specific duties.See more occupations related to this task. Score 73
+1) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. Score 77
+2) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. Score 76
+3) Direct administrative activities directly related to making products or providing services. Score 75
+4) Prepare staff work schedules and assign specific duties. Score 73
 5) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. Score 72
 * Is this job routine? Your judgment (0-10): In our judgement the score should be a 3. Despite the fact that the job involves some routine actions, managers face different situations regarding the same task. 
 * Is this job cognitive? Your judgment (0-10): In our judgment the score should be a 9. As they have to take decisions, manage the operations, formulating policies... this job does not implied physical activities. 
@@ -119,19 +119,19 @@ Sample of reported job titles: Extrusion Engineer, Materials Development Enginee
 
 * Education: 
 
-- Bachelor's degree (48% of the respondents)
+-  Bachelor's degree (48% of the respondents)
 
-- Doctoral Degree (33% of the respondents)
+-  Doctoral Degree (33% of the respondents)
 
-- Master's Degree (10% of the respondents)
+-  Master's Degree (10% of the respondents)
 
 * Wages: The median wages in 2019 were $44.88 hourly and $93,360
 
 * Top industry: 
 
-- Manufacturing (56% employed in this sector)
-- Professional, Scientific and technical services (23% employed in these sectors)
-- Others (21% employed in these sectors)
+-  Manufacturing (56% employed in this sector)
+-  Professional, Scientific and technical services (23% employed in these sectors)
+-  Others (21% employed in these sectors)
 
 ### Operators
 * ONET-SOC code and title: 51-6042, Shoe machine operators and tenders.
