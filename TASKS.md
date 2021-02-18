@@ -121,11 +121,24 @@ The employment in 2019 was $27,500 employees and the projected job opening 2019 
 * Top industry: The top industries in 2019  were manufacturing (56% employed in this sector)  and Professional, Scientific and Technical Services 23%
 
 ### Operators
-* ONET-SOC code and title:
+* ONET-SOC code and title: 51-6042, Shoe machine operators and tenders.
+Operate or tend a variety of machines to join, decorate, reinforce, or finish shoes and shoe parts. Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, Cutter, Fitter, Inseamer, Insole Department Worker, Side Laster, Stitcher.
 * 5 most important tasks they carry out (provide the importance score, in Details):
+1) Study work orders or shoe part tags to obtain information about workloads, specifications, and the types of materials to be used.See more occupations related to this task. Score 97	
+2) Remove and examine shoes, shoe parts, and designs to verify conformance to specifications such as proper embedding of stitches in channels.See more occupations related to this task. Score 92
+3) Perform routine equipment maintenance such as cleaning and lubricating machines or replacing broken needles.	Score 78	
+4) Cut excess thread or material from shoe parts, using scissors or knives. Score 77
+5) Turn screws to regulate size of staples. Score 89 (suplemental)
 * Is this job routine? Your judgment (0-10):
+ In our judgment, the scores should be 8. Most of the tasks they perform tend not to variate within time.
 * Is this job cognitive? Your judgment (0-10):
+ In our judgment, the score should be 3. Most of the tasks are related with physical activities regarding the making process of the shoes.
 * 5 most important skills they require to possess (provide the importance score, in Details):
+1) Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill. 	
+2) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+3) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
+4) Operation and Control — Controlling operations of equipment or systems.See more occupations related to this skill.
+5) Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance.
 * 5 technology skills:
 * Education:
 * Wages:
