@@ -78,7 +78,7 @@ All score 75.
 -Some college, no degree (19% of respondents)
 
 
--High school diploma or equivalent (15% of respondents)
+-  High school diploma or equivalent (15% of respondents)
 * Wages: Median wages (2019)	$48.45 hourly, $100,780 annual
 * Top industry:
 
@@ -118,19 +118,19 @@ Sample of reported job titles: Extrusion Engineer, Materials Development Enginee
 5) Development environment software
 * Education: 
 
--  Bachelor's degree (48% of the respondents)
+-Bachelor's degree (48% of the respondents)
 
--  Doctoral Degree (33% of the respondents)
+-Doctoral Degree (33% of the respondents)
 
--  Master's Degree (10% of the respondents)
+-Master's Degree (10% of the respondents)
 * Wages: The median wages in 2019 were $44.88 hourly and $93,360
 * Top industry: 
 
--  Manufacturing (56% employed in this sector)
+-Manufacturing (56% employed in this sector)
 
--  Professional, Scientific and technical services (23% employed in these sectors)
+-Professional, Scientific and technical services (23% employed in these sectors)
 
--  Others (21% employed in these sectors)
+-Others (21% employed in these sectors)
 
 
 ### Operators
@@ -161,27 +161,17 @@ Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, C
 3) Inventory management software — Inventory tracking software
 4) Office suite software — Microsoft Office 
 5) Spreadsheet software — Microsoft Excel 
-
 * Education: 
 
+-High school diploma or equivalent (70% of the respondents)
 
--  High school diploma or equivalent (70% of the respondents)
+-Less than high school diploma (25% of the respondents)
 
-
-
--  Less than high school diploma (25% of the respondents)
-
-
-
--  College, no degree (5% of the respondents)
-
-
+-College, no degree (5% of the respondents)
 * Wages: The median wages in 2019 were $14.70 hourly and $30,570
-
 * Top industry:
 
-
--  Manufacturing (almost 100%)
+-Manufacturing (almost 100%)
 ***
 
 ## Task 3
