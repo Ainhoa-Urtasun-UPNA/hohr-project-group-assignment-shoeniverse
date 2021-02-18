@@ -79,6 +79,7 @@ All score 75.
 
 
 -  High school diploma or equivalent (15% of respondents)
+
 * Wages: Median wages (2019)	$48.45 hourly, $100,780 annual
 * Top industry:
 
@@ -123,6 +124,7 @@ Sample of reported job titles: Extrusion Engineer, Materials Development Enginee
 -Doctoral Degree (33% of the respondents)
 
 -Master's Degree (10% of the respondents)
+
 * Wages: The median wages in 2019 were $44.88 hourly and $93,360
 * Top industry: 
 
@@ -168,6 +170,7 @@ Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, C
 -Less than high school diploma (25% of the respondents)
 
 -College, no degree (5% of the respondents)
+
 * Wages: The median wages in 2019 were $14.70 hourly and $30,570
 * Top industry:
 
