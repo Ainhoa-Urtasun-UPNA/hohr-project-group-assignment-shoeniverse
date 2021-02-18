@@ -46,6 +46,7 @@ Corporate Name: Steven Madden Ltd Total Employees: 3,900
 ***
 ### Managers
 * ONET-SOC code and title: 11-1021, General and Operations Managers
+
 Plan, direct, or coordinate the operations of public or private sector organizations, overseeing multiple departments or locations. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources, but are too diverse and general in nature to be classified in any one functional area of management or administration, such as personnel, purchasing, or administrative services. Usually manage through subordinate supervisors. Excludes First-Line Supervisors.
 
 Sample of reported job titles: Business Manager, General Manager (GM), Operations Director, Operations Manager, Plant Superintendent, Store Manager
@@ -90,6 +91,7 @@ All score 75.
 
 ### Engineers
 * ONET-SOC code and title: 17.2131, Material Engineers
+
 Evaluate materials and develop machinery and processes to manufacture materials for use in products that must meet specialized design and performance specifications. Develop new uses for known materials. Includes those engineers working with composite materials or specializing in one type of material, such as graphite, metal and metal alloys, ceramics and glass, plastics and polymers, and naturally occurring materials. Includes metallurgists and metallurgical engineers, ceramic engineers, and welding engineers.
 
 Sample of reported job titles: Extrusion Engineer, Materials Development Engineer, Materials Engineer, Materials Research Engineer, Metallurgical Engineer, Metallurgist, Research Engineer, Test Engineer
