@@ -185,6 +185,14 @@ Sample of reported job titles: Assembler, Boot and Shoe Repairman, Boot Maker, C
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
 
+Firstly, we introduced the data on the matrixes, as we are a new company we do not have historical data so we need to use the data of other companies to have a reference to be to able to forecast the number of available workers in the near future for our company "ShoeUniverse". We used the information of the industry for the matrixes D and M.
+
+We started doing the matrix D which is a diagonal matrix 3x3 with di as the number of workers in occupation i last year: ([[15,0,0],[0,20,0],[0,0,50]])
+M is a square matrix 3x3 which gives the dynamic information: ([[5,2,0],[0,10,0],[5,5,45]])
+Matrix b wich is a column vector of dimension 3 that shows the information at the present moment: ([[4],[0],[0]])
+
+Finally, we used the formula a=M*D^-1*b and we get : ([[1.3333],[0],[1.3333]]) which implies that we expect to have 1 manager and 1 operator in 1 year from now.
+
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
 ***
