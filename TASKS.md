@@ -201,6 +201,8 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
 
+Firstly, we introduced the data on the matrixes. The first one is matrix X: [[15,1,0,0],[17,1,0,0],[14,1,0,0],[6,0,1,0],[6,0,1,0],[5,0,1,0],[23,0,0,1],[27,0,0,1],[25,0,0,1]] and then matrix Y:[[4],[6],[5],[13],[12],[13],[7],[7],[9]] and we also get the X estimated: [10,1,0,0][4,0,1,0][20,0,01]. Then for calculating the Beta and the Deltas we do:[X'X]^-1X'Y and we get [0.125][3.083333][11.958333][5.411666]. Finally we do X estimated multiplied by the Beta+Deltas matrix. We get a result matrix that rounded and expressing them as integers we get that  we need 4 managers, 12 engineers and 7 operators. So we can see comparing to the task 3 that there is a shortage of 3 Managers, 12 engineers and 6 operators. So for achieving a solution for the big shortage we need to carry out upsizing strategies as Hiring, Increase workweek and Increase overtime.
+
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
