@@ -280,6 +280,8 @@ Location: Remote
 
 Salary, benefits and perks: 97000€ per year. 
 
+This job posting is for 12 vacancies in the position of engineer. In relation to the results obtained above, we have a shortage of 12 managers between the availability and the demand of workers, so we are following the recommendations of using upsizing strategies to increase the number of workeres or the workweek.
+
 ### Job posting for Operators:
 
 Job title: Business Manager
@@ -312,7 +314,7 @@ Location: Remote
 
 Salary, benefits and perk: We offer a competitive salary & comprehensive benefit package which includes: Medical, Dental, Vision, Wellness program, Company paid Life Insurance. The salary includes an hourly wage of 15€ per hour.
 
-This job posting is for 12 job vacancies for operators. In relation to the information above, between the difference od availability and demand of workers, we also find a shortage in operators. We are using upsizing strategies to hire new operators and increase the production of teh company.
+This job posting is for 6 job vacancies for operators. In relation to the information above, between the difference od availability and demand of workers, we also find a shortage in operators. We are using upsizing strategies to hire new operators and increase the production of teh company.
 
 ## Task 6
 * Objective: Create a website for your project
