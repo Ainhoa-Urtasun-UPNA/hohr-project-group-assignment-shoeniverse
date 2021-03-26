@@ -91,7 +91,7 @@ All score 75.
 -Other industries (including Manufacturing and Wholesale Trade) (77% employed in these sectors)
 
 ### Engineers
-* ONET-SOC code and title: 17.2131, Material Engineers
+* ONET-SOC code and title: 17-2131, Material Engineers
 
 Evaluate materials and develop machinery and processes to manufacture materials for use in products that must meet specialized design and performance specifications. Develop new uses for known materials. Includes those engineers working with composite materials or specializing in one type of material, such as graphite, metal and metal alloys, ceramics and glass, plastics and polymers, and naturally occurring materials. Includes metallurgists and metallurgical engineers, ceramic engineers, and welding engineers.
 
@@ -207,6 +207,25 @@ Firstly, we introduced the data on the matrixes. The first one is matrix X: [[15
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+Job title: Business Manager
+Occupation (SOC label and code): 11-1021, General and Operations managers
+Industry (NAICS title and code): 316210, Footwear Manufacturing
+List of tasks:	
+1) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. Score 77
+2) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. Score 76
+3) Direct administrative activities directly related to making products or providing services. Score 75
+4) Prepare staff work schedules and assign specific duties. Score 73
+5) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. Score 72
+List of skills:
+1) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.  	
+2) Coordination — Adjusting actions in relation to others' actions.
+3) Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. 	
+4) Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.
+5) Speaking — Talking to others to convey information effectively.
+Required credentials and years of experience: 4-year degree and 2+ years job-related experience in shoe manufacturing, Production Planning or Project Management, OR High School Diploma/GED and 5+ years job-related experience in shoe industry, Production Planning or Project Management.
+Job type (full-time, part-time): 8 hours, day shift
+Location: Remote
+Salary, benefits and perk: 75,000€ per year as remuneration. In addition to your salary, Shoeuniverse offers the following benefits for this position. Health, dental, and vision plans; wellness program; flexible spending accounts; paid parking or public transportation costs; retirement plan; employee stock purchase plan; life insurance, short-term disability insurance, and long-term disability insurance; business travel accident insurance; Employee Assistance Program; PTO; and employee-paid critical illness and accident insurance.
 ### Job posting for Engineers:
 ### Job posting for Operators:
 ***
