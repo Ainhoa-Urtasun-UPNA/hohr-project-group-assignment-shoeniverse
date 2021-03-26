@@ -216,11 +216,11 @@ Industry (NAICS title and code): 316210, Footwear Manufacturing
 
 List of tasks:	
 
-1) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. Score 77
-2) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. Score 76
-3) Direct administrative activities directly related to making products or providing services. Score 75
-4) Prepare staff work schedules and assign specific duties. Score 73
-5) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. Score 72
+1) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. 
+2) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. 
+3) Direct administrative activities directly related to making products or providing services. 
+4) Prepare staff work schedules and assign specific duties. 
+5) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits. 
 
 List of skills:
 
@@ -237,9 +237,43 @@ Job type (full-time, part-time): 8 hours, day shift
 Location: Remote
 
 Salary, benefits and perk: 75,000€ per year as remuneration. In addition to your salary, Shoeuniverse offers the following benefits for this position. Health, dental, and vision plans; wellness program; flexible spending accounts; paid parking or public transportation costs; retirement plan; employee stock purchase plan; life insurance, short-term disability insurance, and long-term disability insurance; business travel accident insurance; Employee Assistance Program; PTO; and employee-paid critical illness and accident insurance.
+
+This job posting is for 3 vacancies in the position of manager. In relation to the results obtained above, we have a shortage of 3 managers between the availability and the demand of workers, so we are following the recommendations of using upsizing strategies to increase the number of workeres or the workweek.
+
 ### Job posting for Engineers:
 ### Job posting for Operators:
-***
+
+Job title: Business Manager
+
+Occupation (SOC label and code): 51-6042, Shoe Machine operators and tenders
+
+Industry (NAICS title and code): 316210, Footwear Manufacturing
+
+List of tasks:	
+
+1) Study work orders or shoe part tags to obtain information about workloads, specifications, and the types of materials to be used. 
+2) Remove and examine shoes, shoe parts, and designs to verify conformance to specifications such as proper embedding of stitches in channels. 
+3) Perform routine equipment maintenance such as cleaning and lubricating machines or replacing broken needles.	
+4) Cut excess thread or material from shoe parts, using scissors or knives. 
+5) Turn screws to regulate size of staples. (suplemental)
+
+List of skills:
+
+1) Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. 	
+2) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+3) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+4) Operation and Control — Controlling operations of equipment or systems.
+5) Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance.
+
+Required credentials and years of experience: 4-year degree and 2+ years job-related experience in shoe manufacturing, Production Planning or Project Management, OR High School Diploma/GED and 5+ years job-related experience in shoe industry, Production Planning or Project Management.
+
+Job type (full-time, part-time): 12 hours, day or night shift
+
+Location: Remote
+
+Salary, benefits and perk: We offer a competitive salary & comprehensive benefit package which includes: Medical, Dental, Vision, Wellness program, Company paid Life Insurance. The salary includes an hourly wage of 15€ per hour.
+
+This job posting is for 12 job vacancies for operators. In relation to the information above, between the difference od availability and demand of workers, we also find a shortage in operators. We are using upsizing strategies to hire new operators and increase the production of teh company.
 
 ## Task 6
 * Objective: Create a website for your project
