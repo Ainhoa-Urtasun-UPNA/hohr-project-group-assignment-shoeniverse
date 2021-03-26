@@ -241,6 +241,45 @@ Salary, benefits and perk: 75,000€ per year as remuneration. In addition to yo
 This job posting is for 3 vacancies in the position of manager. In relation to the results obtained above, we have a shortage of 3 managers between the availability and the demand of workers, so we are following the recommendations of using upsizing strategies to increase the number of workeres or the workweek.
 
 ### Job posting for Engineers:
+
+Job title: Material Engeenier
+
+Occupation (SOC label and code): 17-2131.00
+
+Industry (NAICS title and code) 316210, Footwear Manufacturing
+
+List of tasks:
+
+1.	Analyze product failure data and laboratory test results to determine causes of problems and develop solutions. Score 83
+
+2.	Design and direct the testing or control of processing procedures. Score 80
+
+3.	Monitor material performance and evaluate material deterioration. Score 79
+
+4.	Conduct or supervise tests on raw materials or finished products to ensure their quality. Score 78
+
+5.	Evaluate technical specifications and economic factors relating to process or product design objectives. Score 78
+
+List of skills: 
+
+1.	Active Listening - Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+
+2.	Complex Problem Solving - Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+
+3.	Reading Comprehension - The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events).
+
+4.	Science - The ability to listen to and understand information and ideas presented through spoken words and sentences.
+
+5.	Critical Thinking - The ability to communicate information and ideas in speaking so others will understand.
+
+Required credentials and years of experience: Bachelor degree, B2 of English certificate (Cambridge or Toffee). Minimum 2 years of guarantee experience, 
+
+Job type (full-time, part-time): Full-time job
+
+Location: Remote
+
+Salary, benefits and perks: 97000€ per year. 
+
 ### Job posting for Operators:
 
 Job title: Business Manager
