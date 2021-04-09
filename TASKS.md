@@ -238,7 +238,7 @@ Location: Remote
 
 Salary, benefits and perk: 75,000€ per year as remuneration. In addition to your salary, Shoeuniverse offers the following benefits for this position. Health, dental, and vision plans; wellness program; flexible spending accounts; paid parking or public transportation costs; retirement plan; employee stock purchase plan; life insurance, short-term disability insurance, and long-term disability insurance; business travel accident insurance; Employee Assistance Program; PTO; and employee-paid critical illness and accident insurance.
 
-This job posting is for 3 vacancies in the position of manager. In relation to the results obtained above, we have a shortage of 3 managers between the availability and the demand of workers, so we are following the recommendations of using upsizing strategies to increase the number of workeres or the workweek.
+This job posting is for 5 vacancies in the position of manager. We are following the recommendations of using upsizing strategies to increase the number of workeres or the workweek. The automation risk is low, 23%, so there is not risk of being substituted.
 
 ### Job posting for Engineers:
 
@@ -280,11 +280,11 @@ Location: Remote
 
 Salary, benefits and perks: 97000€ per year. 
 
-This job posting is for 12 vacancies in the position of engineer. In relation to the results obtained above, we have a shortage of 12 managers between the availability and the demand of workers, so we are following the recommendations of using upsizing strategies to increase the number of workeres or the workweek.
+This job posting is for 16 vacancies in the position of manager. We are following the recommendations of using upsizing strategies to increase the number of workeres or the workweek. Due to the low automation risk is low, 2%, there is no problem of being substituted by technology.
 
 ### Job posting for Operators:
 
-Job title: Business Manager
+Job title: Shoe Machine Operators and Tenders
 
 Occupation (SOC label and code): 51-6042, Shoe Machine operators and tenders
 
@@ -314,7 +314,7 @@ Location: Remote
 
 Salary, benefits and perk: We offer a competitive salary & comprehensive benefit package which includes: Medical, Dental, Vision, Wellness program, Company paid Life Insurance. The salary includes an hourly wage of 15€ per hour.
 
-This job posting is for 6 job vacancies for operators. In relation to the information above, between the difference od availability and demand of workers, we also find a shortage in operators. We are using upsizing strategies to hire new operators and increase the production of teh company.
+This job posting is for 2 job vacancies for operators. We are using upsizing strategies to hire new operators and increase the production of the company. The automation risk here is really high, 97%, se we are not hiring as many operators as we need.
 
 ## Task 6
 * Objective: Create a website for your project
