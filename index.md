@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ![Diapositiva1.JPG](Diapositiva1.JPG)
+
 [Link[Diapositiva1.JPG](src)
 ```
 Diapositiva1.JPG
