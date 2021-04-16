@@ -6,6 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+![Diapositiva1.JPG](Diapositiva1.JPG)
+
+
+
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -23,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Diapositiva1.JPG](Diapositiva1.JPG)
+
 
 [Link[Diapositiva1.JPG](src)
 ```
