@@ -22,6 +22,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+![Diapositiva1.JPG](Diapositiva1.JPG)
+
+
 - Bulleted
 - List
 
@@ -32,9 +35,6 @@ Syntax highlighted code block
 
 
 
-[Link[Diapositiva1.JPG](src)
-```
-Diapositiva1.JPG
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
