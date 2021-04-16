@@ -22,7 +22,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![Diapositiva1.JPG](Diapositiva1.JPG)
+
 
 
 - Bulleted
