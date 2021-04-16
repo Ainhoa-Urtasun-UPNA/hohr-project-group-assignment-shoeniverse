@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-shoeniverse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![1.PNG](1.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![2.PNG](2.PNG)
 
-### Markdown
+![3.PNG](3.PNG)
 
-![Diapositiva1.JPG](Diapositiva1.JPG)
 
 
 
