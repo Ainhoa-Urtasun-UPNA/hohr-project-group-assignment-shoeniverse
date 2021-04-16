@@ -1,9 +1,9 @@
 
-![1.PNG](1.PNG)
+![1.png](1.png)
 
-![2.PNG](2.PNG)
+![2.png](2.png)
 
-![3.PNG](3.PNG)
+![3.png](3.png)
 
 
 
